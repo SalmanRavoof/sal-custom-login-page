@@ -1,2 +1,2 @@
 # Sal Custom Login Page
-Demonstrating WordPress Hooks (Actions and Filters) by customizing the WordPress login page.
+A WordPress plugin that demonstrates how WordPress Hooks (Actions and Filters) work by customizing the WordPress login page.
