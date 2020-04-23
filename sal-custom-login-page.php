@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: 	Sal Custom Login Page
-Version: 		1.0
+Version: 	1.0
 Description: 	Demonstrating WordPress Hooks (Actions and Filters) by customizing the WordPress login page.
-Author: 		Salman Ravoof
+Author: 	Salman Ravoof
 Author URI: 	https://www.salmanravoof.com/
-License:		GPLv2 or later
+License:	GPLv2 or later
 License URI:	https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: 	sal-custom-login-page
 */
